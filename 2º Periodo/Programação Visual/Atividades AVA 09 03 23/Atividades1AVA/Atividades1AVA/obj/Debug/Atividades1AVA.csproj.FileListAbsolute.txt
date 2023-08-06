@@ -1,0 +1,17 @@
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\bin\Debug\Atividades1AVA.exe.config
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\bin\Debug\Atividades1AVA.exe
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\bin\Debug\Atividades1AVA.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.csproj.AssemblyReference.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.AppConversao.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.Properties.Resources.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.csproj.GenerateResource.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.csproj.CoreCompileInputs.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.exe
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.csproj.SuggestedBindingRedirects.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.Formularios.exercicio1.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.Formularios.exercicio2.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.Formularios.exercicio3.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.Formularios.exercicio4.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.Formularios.exercicio5.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\Atividades AVA 09 03 23\Atividades1AVA\Atividades1AVA\obj\Debug\Atividades1AVA.Formularios.exercicio6.resources

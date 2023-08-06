@@ -1,0 +1,15 @@
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\bin\Debug\net7.0\ListaSimplesAluno.exe
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\bin\Debug\net7.0\ListaSimplesAluno.deps.json
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\bin\Debug\net7.0\ListaSimplesAluno.runtimeconfig.json
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\bin\Debug\net7.0\ListaSimplesAluno.dll
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\bin\Debug\net7.0\ListaSimplesAluno.pdb
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\obj\Debug\net7.0\ListaSimplesAluno.csproj.AssemblyReference.cache
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\obj\Debug\net7.0\ListaSimplesAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\obj\Debug\net7.0\ListaSimplesAluno.AssemblyInfoInputs.cache
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\obj\Debug\net7.0\ListaSimplesAluno.AssemblyInfo.cs
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\obj\Debug\net7.0\ListaSimplesAluno.csproj.CoreCompileInputs.cache
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\obj\Debug\net7.0\ListaSimplesAluno.dll
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\obj\Debug\net7.0\refint\ListaSimplesAluno.dll
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\obj\Debug\net7.0\ListaSimplesAluno.pdb
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\obj\Debug\net7.0\ListaSimplesAluno.genruntimeconfig.cache
+C:\Users\1986393\Documents\algo\ListaSimplesAluno\obj\Debug\net7.0\ref\ListaSimplesAluno.dll

@@ -1,0 +1,41 @@
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.exe.config
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.exe
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.pdb
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.AssemblyReference.cache
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.SuggestedBindingRedirects.cache
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Form1.resources
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormLotoFacil.resources
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Properties.Resources.resources
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.GenerateResource.cache
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.CoreCompileInputs.cache
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.exe
+C:\Users\reina\OneDrive\Documentos\My Web Sites\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.pdb
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.exe.config
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.exe
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.pdb
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.AssemblyReference.cache
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.SuggestedBindingRedirects.cache
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Form1.resources
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormLotoFacil.resources
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Properties.Resources.resources
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.GenerateResource.cache
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.CoreCompileInputs.cache
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.exe
+C:\Users\04017474250\Desktop\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.exe.config
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.exe
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.AssemblyReference.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.SuggestedBindingRedirects.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Form1.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormLotoFacil.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Properties.Resources.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.GenerateResource.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.CoreCompileInputs.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.exe
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormMegaSena.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormQuina.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormLotoMania.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormDiaDeSorte.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\22_06_23\AppGeradorLoterias\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormSuperSete.resources

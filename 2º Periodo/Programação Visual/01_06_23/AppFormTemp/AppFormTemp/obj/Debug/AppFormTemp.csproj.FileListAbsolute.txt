@@ -1,0 +1,11 @@
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\bin\Debug\AppFormTemp.exe.config
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\bin\Debug\AppFormTemp.exe
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\bin\Debug\AppFormTemp.pdb
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\obj\Debug\AppFormTemp.csproj.AssemblyReference.cache
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\obj\Debug\AppFormTemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\obj\Debug\AppFormTemp.Properties.Resources.resources
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\obj\Debug\AppFormTemp.csproj.GenerateResource.cache
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\obj\Debug\AppFormTemp.csproj.CoreCompileInputs.cache
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\obj\Debug\AppFormTemp.exe
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\obj\Debug\AppFormTemp.pdb
+C:\Users\04017474250\Desktop\Programação Visual\01_06_23\AppFormTemp\AppFormTemp\obj\Debug\AppFormTemp.Form1.resources

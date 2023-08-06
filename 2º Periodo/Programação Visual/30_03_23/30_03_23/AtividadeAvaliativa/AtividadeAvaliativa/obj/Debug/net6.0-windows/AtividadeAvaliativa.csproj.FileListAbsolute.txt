@@ -1,0 +1,40 @@
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0-windows\AtividadeAvaliativa.exe
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0-windows\AtividadeAvaliativa.deps.json
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0-windows\AtividadeAvaliativa.runtimeconfig.json
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0-windows\AtividadeAvaliativa.dll
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0-windows\AtividadeAvaliativa.pdb
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.csproj.AssemblyReference.cache
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.Form1.resources
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.csproj.GenerateResource.cache
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.AssemblyInfoInputs.cache
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.AssemblyInfo.cs
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.dll
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\refint\AtividadeAvaliativa.dll
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.pdb
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.genruntimeconfig.cache
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\ref\AtividadeAvaliativa.dll
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.Formularios.Atividade1.resources
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.Formularios.Atividade2.resources
+C:\Users\04017474250\Desktop\Programação Visual\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.Formularios.Atividade3.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0-windows\AtividadeAvaliativa.exe
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0-windows\AtividadeAvaliativa.deps.json
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0-windows\AtividadeAvaliativa.runtimeconfig.json
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0-windows\AtividadeAvaliativa.dll
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0-windows\AtividadeAvaliativa.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.csproj.AssemblyReference.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.Form1.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.Formularios.Atividade1.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.Formularios.Atividade2.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.Formularios.Atividade3.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.csproj.GenerateResource.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.AssemblyInfoInputs.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.AssemblyInfo.cs
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.dll
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\refint\AtividadeAvaliativa.dll
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\AtividadeAvaliativa.genruntimeconfig.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\30_03_23\30_03_23\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0-windows\ref\AtividadeAvaliativa.dll

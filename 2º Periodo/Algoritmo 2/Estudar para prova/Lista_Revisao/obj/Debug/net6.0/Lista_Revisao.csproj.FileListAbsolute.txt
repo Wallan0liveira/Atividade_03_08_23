@@ -1,0 +1,30 @@
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\bin\Debug\net6.0\Lista_Revisao.exe
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\bin\Debug\net6.0\Lista_Revisao.deps.json
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\bin\Debug\net6.0\Lista_Revisao.runtimeconfig.json
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\bin\Debug\net6.0\Lista_Revisao.dll
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\bin\Debug\net6.0\ref\Lista_Revisao.dll
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\bin\Debug\net6.0\Lista_Revisao.pdb
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.csproj.AssemblyReference.cache
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.AssemblyInfoInputs.cache
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.AssemblyInfo.cs
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.csproj.CoreCompileInputs.cache
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.dll
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\obj\Debug\net6.0\ref\Lista_Revisao.dll
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.pdb
+C:\Users\1986393\Documents\algoritimos\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.genruntimeconfig.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\bin\Debug\net6.0\Lista_Revisao.exe
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\bin\Debug\net6.0\Lista_Revisao.deps.json
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\bin\Debug\net6.0\Lista_Revisao.runtimeconfig.json
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\bin\Debug\net6.0\Lista_Revisao.dll
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\bin\Debug\net6.0\Lista_Revisao.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.csproj.AssemblyReference.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.AssemblyInfoInputs.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.AssemblyInfo.cs
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.csproj.CoreCompileInputs.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.dll
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\obj\Debug\net6.0\refint\Lista_Revisao.dll
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\obj\Debug\net6.0\Lista_Revisao.genruntimeconfig.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Algoritmo 2\Estudar para prova\Lista_Revisao\obj\Debug\net6.0\ref\Lista_Revisao.dll

@@ -1,0 +1,28 @@
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\bin\Debug\ExemplosGrids.exe.config
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\bin\Debug\ExemplosGrids.exe
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\bin\Debug\ExemplosGrids.pdb
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.csproj.AssemblyReference.cache
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.csproj.SuggestedBindingRedirects.cache
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.Formularios.FormPerdido.resources
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.Formularios.FormReajuste.resources
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.Formularios.FormRegistroDeNotas.resources
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.Properties.Resources.resources
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.csproj.GenerateResource.cache
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.csproj.CoreCompileInputs.cache
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.exe
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.pdb
+C:\Users\04017474250\Desktop\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.Form1.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\bin\Debug\ExemplosGrids.exe.config
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\bin\Debug\ExemplosGrids.exe
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\bin\Debug\ExemplosGrids.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.csproj.AssemblyReference.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.csproj.SuggestedBindingRedirects.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.Form1.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.Formularios.FormPerdido.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.Formularios.FormReajuste.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.Formularios.FormRegistroDeNotas.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.Properties.Resources.resources
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.csproj.GenerateResource.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.csproj.CoreCompileInputs.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.exe
+C:\Users\walla\OneDrive\Área de Trabalho\Ifro\Programação Visual\11_05_23\ExemplosGrids\ExemplosGrids\ExemplosGrids\obj\Debug\ExemplosGrids.pdb
